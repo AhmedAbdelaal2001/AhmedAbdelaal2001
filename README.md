@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ahmed Abdelaal</h1>
-<img align="center" alt="Hi" width="400" src="https://media4.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif?cid=ecf05e47xdkcmseb1biclnbsf2hz63vwi7km1dvhxv0mag2y&rid=giphy.gif&ct=g" style="padding-left:100px;">
+<img align="right" alt="Hi" width="400" src="https://media4.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif?cid=ecf05e47xdkcmseb1biclnbsf2hz63vwi7km1dvhxv0mag2y&rid=giphy.gif&ct=g">
 <h3 align="center">A software development enthusiast and math-lover. Deeply fascinated by Machine Learning and Cryptography.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedabdelaal2001&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedabdelaal2001" /> </p>
 
