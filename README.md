@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ahmed Abdelaal</h1>
 <h3 align="center">A software development enthusiast and math-lover. Deeply fascinated by Machine Learning and Cryptography.</h3>
-<img align="right" alt="Hi" width="400" src="https://i.pinimg.com/originals/cc/d2/92/ccd2926b176eb5cf2c2ee638ec1d0aea.gif">
+<img align="right" alt="Hi" width="400" src="https://media4.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif?cid=790b7611f6ae398e7f961c1e7129940a45705e9d9e203cf3&rid=giphy.gif&ct=s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedabdelaal2001&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedabdelaal2001" /> </p>
 
 - I’m currently working on **RNN Language Models**
