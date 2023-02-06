@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi, I'm Ahmed Abdelaal</h1>
 <h3 align="center">A software development enthusiast and math-lover. Deeply fascinated by Machine Learning and Cryptography.</h3>
 <img align="right" alt="Hi" width="400" src="https://media4.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif?cid=ecf05e47xdkcmseb1biclnbsf2hz63vwi7km1dvhxv0mag2y&rid=giphy.gif&ct=g">
